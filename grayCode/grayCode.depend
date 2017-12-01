@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1512147423 source:/home/neda/Desktop/grayCode/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
